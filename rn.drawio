@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T08:32:04.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="lIBsISA-vK4fdY8XsBM0" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T08:45:13.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="jwjurcFt_KTAOqMHE5AM" version="18.2.0" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
     <mxGraphModel dx="981" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,59 @@
         </mxCell>
         <mxCell id="DDl9VNaN8lpR-ARsxnNi-6" value="原生代码调整，如修改了java，新增了插件&lt;br&gt;不可用" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ce2b3BSYogWP8yriPR0u-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="980.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ce2b3BSYogWP8yriPR0u-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="980.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-1" value="react-native&lt;br&gt;使用原生功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ce2b3BSYogWP8yriPR0u-2" target="ce2b3BSYogWP8yriPR0u-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="830" />
+              <mxPoint x="380" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ce2b3BSYogWP8yriPR0u-2" target="ce2b3BSYogWP8yriPR0u-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="830" />
+              <mxPoint x="380" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ce2b3BSYogWP8yriPR0u-2" target="ce2b3BSYogWP8yriPR0u-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-2" value="新增处理原生功能的&lt;br&gt;java 类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-4" value="JS端通过暴露的&lt;br&gt;模块名与方法进行调用" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-6" value="命名返回给 js端&lt;br&gt;的模块名称&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-8" value="暴露给 js 端&lt;br&gt;调用的方法" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="610" as="sourcePoint" />
+            <mxPoint x="810" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ce2b3BSYogWP8yriPR0u-11" value="将新增的功能进行&lt;br&gt;模块注册&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
