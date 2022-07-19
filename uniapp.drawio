@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T02:15:33.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" version="20.0.4" etag="gxz3l41HLX0Bm_8SMTDB" type="github"><diagram id="G9VTqADsOA1uYVqKmHrd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-19T02:34:41.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="RURT9m-dY_g0NzKLYKU1" version="20.0.4" type="github">
+  <diagram id="G9VTqADsOA1uYVqKmHrd" name="第 1 页">
+    <mxGraphModel dx="1808" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-1" target="viMZh_LxQ2nRwRlM60QG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-1" value="App.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-2" target="viMZh_LxQ2nRwRlM60QG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-2" target="viMZh_LxQ2nRwRlM60QG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-2" value="根据auth信息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="284" y="340" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-4" value="APP小程序" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="289" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-6" target="viMZh_LxQ2nRwRlM60QG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-6" value="游览器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="289" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-8" target="viMZh_LxQ2nRwRlM60QG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-8" value="store 设置&lt;br&gt;请求的 baseUrl" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="289" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-10" target="viMZh_LxQ2nRwRlM60QG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-10" value="进行登录请求&lt;br&gt;设置用户，菜单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="289" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-12" target="viMZh_LxQ2nRwRlM60QG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-12" value="登录请求里&lt;br&gt;写死了表单数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="89" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-14" value="ajax 拦截器里&lt;br&gt;写死的 baseurl" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
