@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T01:56:48.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="lo1FrRPHjV-WmwJpr5ah" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T02:34:44.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="QbTkvZ7bBwIrbW9EHcA7" version="20.1.1" type="github">
   <diagram id="G9VTqADsOA1uYVqKmHrd" name="第 1 页">
-    <mxGraphModel dx="1561" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="viMZh_LxQ2nRwRlM60QG-2" value="根据auth信息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="284" y="340" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-4" target="mMeTXBTy8XtxrKCNUORP-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="viMZh_LxQ2nRwRlM60QG-4" value="APP小程序" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="289" y="190" width="120" height="60" as="geometry" />
@@ -52,7 +55,7 @@
         <mxCell id="mMeTXBTy8XtxrKCNUORP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-1" target="mMeTXBTy8XtxrKCNUORP-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-1" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-1" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="707" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mMeTXBTy8XtxrKCNUORP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-4" target="mMeTXBTy8XtxrKCNUORP-11">
@@ -156,6 +159,24 @@
             <mxPoint x="940" y="1000" as="sourcePoint" />
             <mxPoint x="990" y="950" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-36" value="移动医护&lt;br&gt;uni小程序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-36" target="viMZh_LxQ2nRwRlM60QG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="520" as="sourcePoint" />
+            <mxPoint x="150" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-38" target="mMeTXBTy8XtxrKCNUORP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-38" value="根据路由关键字段&lt;br&gt;跳转对应的页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="89" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-40" value="平板端页面&lt;br&gt;设置了整个窗口大小&lt;br&gt;tabTitle通过路由时&lt;br&gt;动态设置store" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
