@@ -1,53 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T03:43:30.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="q2NvYvGqV2s6AYGjDfWQ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T01:05:45.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="7juZKC9NO-TyaAhEAgkQ" version="20.1.1" type="github">
   <diagram id="G9VTqADsOA1uYVqKmHrd" name="第 1 页">
     <mxGraphModel dx="2249" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-1" target="viMZh_LxQ2nRwRlM60QG-2">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-1" target="viMZh_LxQ2nRwRlM60QG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-1" value="App.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-1" value="App.vue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-2" target="viMZh_LxQ2nRwRlM60QG-4">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-2" target="viMZh_LxQ2nRwRlM60QG-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-2" target="viMZh_LxQ2nRwRlM60QG-6">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-2" target="viMZh_LxQ2nRwRlM60QG-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-2" value="根据auth信息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-2" value="根据auth信息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="284" y="340" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-4" value="APP小程序" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-4" value="APP小程序" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="289" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-6" target="viMZh_LxQ2nRwRlM60QG-8">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-6" target="viMZh_LxQ2nRwRlM60QG-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-6" value="游览器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-6" value="游览器" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="289" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-8" target="viMZh_LxQ2nRwRlM60QG-10">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-8" target="viMZh_LxQ2nRwRlM60QG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-8" value="store 设置&lt;br&gt;请求的 baseUrl" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-8" value="store 设置&lt;br&gt;请求的 baseUrl" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="289" y="665" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-10" target="viMZh_LxQ2nRwRlM60QG-12">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-10" target="viMZh_LxQ2nRwRlM60QG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-10" value="进行登录请求&lt;br&gt;设置用户，菜单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-10" value="进行登录请求&lt;br&gt;设置用户，菜单" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="289" y="805" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-12" target="viMZh_LxQ2nRwRlM60QG-14">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-12" target="viMZh_LxQ2nRwRlM60QG-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-12" value="登录请求里&lt;br&gt;写死了表单数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-12" value="登录请求里&lt;br&gt;写死了表单数据" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="89" y="805" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="viMZh_LxQ2nRwRlM60QG-14" value="ajax 拦截器里&lt;br&gt;写死的 baseurl" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="viMZh_LxQ2nRwRlM60QG-14" value="ajax 拦截器里&lt;br&gt;写死的 baseurl" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-111" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-1" target="mMeTXBTy8XtxrKCNUORP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-1" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-4" value="App.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-8" value="主入口 Vue 初始化文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="385" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-10" value="&lt;h1&gt;应用配置，用来设置应用的全局样式与监听&lt;/h1&gt;&lt;p&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;是uni-app的主组件，所有页面都是在&lt;/span&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;下进行切换的，是页面入口文件。但&lt;/span&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;本身不是页面，这里不能编写视图元素，也就是没有&lt;/span&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;&amp;lt;template&amp;gt;&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.7; color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;这个文件的作用包括：调用应用生命周期函数、配置全局样式、配置全局的存储globalData&lt;/p&gt;&lt;p style=&quot;line-height: 1.7; color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;应用生命周期仅可在&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;中监听，在页面监听无效&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="480" width="690" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
