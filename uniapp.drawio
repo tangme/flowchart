@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T01:50:35.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="4lkXXKmdFKvlpUGVcOdJ" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T01:56:48.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="lo1FrRPHjV-WmwJpr5ah" version="20.1.1" type="github">
   <diagram id="G9VTqADsOA1uYVqKmHrd" name="第 1 页">
     <mxGraphModel dx="1561" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -137,6 +137,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="1350" as="sourcePoint" />
             <mxPoint x="990" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-32" value="参考链接&amp;nbsp;https://uniapp.dcloud.io/tutorial/page.html#lifecycle" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="920" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-33" value="参考链接&amp;nbsp;https://uniapp.dcloud.io/tutorial/page.html#componentlifecycle" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1057.5" width="360" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-16" target="mMeTXBTy8XtxrKCNUORP-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="1000" as="sourcePoint" />
+            <mxPoint x="890" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-33" target="mMeTXBTy8XtxrKCNUORP-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="1000" as="sourcePoint" />
+            <mxPoint x="990" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
