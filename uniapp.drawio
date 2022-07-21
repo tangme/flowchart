@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T01:04:52.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="g1I1kGYZKux7W3PJ9P8w" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T01:29:25.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="x4sYS4mjeH_7UyXiA_RO" version="20.1.2" type="github">
   <diagram id="G9VTqADsOA1uYVqKmHrd" name="第 1 页">
     <mxGraphModel dx="2249" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,6 +180,12 @@
         </mxCell>
         <mxCell id="p_1--QxRT9-Y2mZCkOfn-1" value="点击等 交互事件&lt;br&gt;https://uniapp.dcloud.io/tutorial/vue-basics.html#%E4%BA%8B%E4%BB%B6%E6%98%A0%E5%B0%84%E8%A1%A8" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1180" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p_1--QxRT9-Y2mZCkOfn-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-22" target="p_1--QxRT9-Y2mZCkOfn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="1190" as="sourcePoint" />
+            <mxPoint x="1190" y="1140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
