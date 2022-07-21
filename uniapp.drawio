@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T02:34:44.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="QbTkvZ7bBwIrbW9EHcA7" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T01:04:52.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="g1I1kGYZKux7W3PJ9P8w" version="20.1.2" type="github">
   <diagram id="G9VTqADsOA1uYVqKmHrd" name="第 1 页">
-    <mxGraphModel dx="2012" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="viMZh_LxQ2nRwRlM60QG-2" value="根据auth信息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="284" y="340" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-4" target="mMeTXBTy8XtxrKCNUORP-38">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-4" target="mMeTXBTy8XtxrKCNUORP-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="viMZh_LxQ2nRwRlM60QG-4" value="APP小程序" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -52,131 +52,134 @@
         <mxCell id="viMZh_LxQ2nRwRlM60QG-14" value="ajax 拦截器里&lt;br&gt;写死的 baseurl" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-111" y="805" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-1" target="mMeTXBTy8XtxrKCNUORP-4">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mMeTXBTy8XtxrKCNUORP-1" target="mMeTXBTy8XtxrKCNUORP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-1" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-1" value="main.js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="707" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-4" target="mMeTXBTy8XtxrKCNUORP-11">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mMeTXBTy8XtxrKCNUORP-4" target="mMeTXBTy8XtxrKCNUORP-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-4" value="App.vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-4" value="App.vue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="707" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-8" value="主入口 Vue 初始化文件" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-8" value="主入口 Vue 初始化文件" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="385" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-10" value="&lt;h1&gt;应用配置，用来设置应用的全局样式与监听&lt;/h1&gt;&lt;p&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;是uni-app的主组件，所有页面都是在&lt;/span&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;下进行切换的，是页面入口文件。但&lt;/span&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;本身不是页面，这里不能编写视图元素，也就是没有&lt;/span&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;&amp;lt;template&amp;gt;&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.7; color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;这个文件的作用包括：调用应用生命周期函数、配置全局样式、配置全局的存储globalData&lt;/p&gt;&lt;p style=&quot;line-height: 1.7; color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;应用生命周期仅可在&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;中监听，在页面监听无效&lt;/p&gt;&lt;p style=&quot;line-height: 1.7; color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;参考链接:&amp;nbsp;&amp;nbsp;https://uniapp.dcloud.io/collocation/App.html&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-10" value="&lt;h1&gt;应用配置，用来设置应用的全局样式与监听&lt;/h1&gt;&lt;p&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;是uni-app的主组件，所有页面都是在&lt;/span&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;下进行切换的，是页面入口文件。但&lt;/span&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;本身不是页面，这里不能编写视图元素，也就是没有&lt;/span&gt;&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;&amp;lt;template&amp;gt;&lt;/code&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;&quot;&gt;。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.7; color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;这个文件的作用包括：调用应用生命周期函数、配置全局样式、配置全局的存储globalData&lt;/p&gt;&lt;p style=&quot;line-height: 1.7; color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;应用生命周期仅可在&lt;code style=&quot;font-family: source-code-pro, Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; color: rgb(233, 105, 0); padding: 0.25rem 0.5rem; margin: 0px; font-size: 0.85em; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px;&quot;&gt;App.vue&lt;/code&gt;中监听，在页面监听无效&lt;/p&gt;&lt;p style=&quot;line-height: 1.7; color: rgb(44, 62, 80); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;参考链接:&amp;nbsp;&amp;nbsp;https://uniapp.dcloud.io/collocation/App.html&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="895" y="460" width="690" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-11" target="mMeTXBTy8XtxrKCNUORP-16">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mMeTXBTy8XtxrKCNUORP-11" target="mMeTXBTy8XtxrKCNUORP-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-11" value="page.json 里的&lt;br&gt;配置项第一个页面&lt;br&gt;作为工程的首页&lt;br&gt;及启动页&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-11" value="page.json 里的&lt;br&gt;配置项第一个页面&lt;br&gt;作为工程的首页&lt;br&gt;及启动页&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="695.5" y="725" width="143" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-1" target="mMeTXBTy8XtxrKCNUORP-8">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mMeTXBTy8XtxrKCNUORP-1" target="mMeTXBTy8XtxrKCNUORP-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="630" as="sourcePoint" />
             <mxPoint x="970" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-4">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mMeTXBTy8XtxrKCNUORP-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="630" as="sourcePoint" />
             <mxPoint x="900" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-16" target="mMeTXBTy8XtxrKCNUORP-18">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mMeTXBTy8XtxrKCNUORP-16" target="mMeTXBTy8XtxrKCNUORP-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-16" value="页面生命周期" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-16" value="页面生命周期" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="707" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-18" target="mMeTXBTy8XtxrKCNUORP-20">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mMeTXBTy8XtxrKCNUORP-18" target="mMeTXBTy8XtxrKCNUORP-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-18" value="组件生命周期" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-18" value="组件生命周期" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="707" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-20" target="mMeTXBTy8XtxrKCNUORP-24">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mMeTXBTy8XtxrKCNUORP-20" target="mMeTXBTy8XtxrKCNUORP-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-20" value="全局自定义事件&lt;br&gt;多层级页面间通讯" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-20" value="全局自定义事件&lt;br&gt;多层级页面间通讯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="707" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-22" value="uni.$emit&lt;br&gt;uni.$on&lt;br&gt;uni.$once&lt;br&gt;uni.$off" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-22" value="uni.$emit&lt;br&gt;uni.$on&lt;br&gt;uni.$once&lt;br&gt;uni.$off" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1180" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-20" target="mMeTXBTy8XtxrKCNUORP-22">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mMeTXBTy8XtxrKCNUORP-20" target="mMeTXBTy8XtxrKCNUORP-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="950" y="1160" as="sourcePoint" />
             <mxPoint x="1000" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-24" target="mMeTXBTy8XtxrKCNUORP-28">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mMeTXBTy8XtxrKCNUORP-24" target="mMeTXBTy8XtxrKCNUORP-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-24" value="路由" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-24" value="路由" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="707" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-26" value="1、 组件标签 &amp;lt;navigator&amp;gt;&lt;br&gt;2、api调用 uni,navigateTo" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-26" value="1、 组件标签 &amp;lt;navigator&amp;gt;&lt;br&gt;2、api调用 uni,navigateTo" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1325" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-24" target="mMeTXBTy8XtxrKCNUORP-26">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mMeTXBTy8XtxrKCNUORP-24" target="mMeTXBTy8XtxrKCNUORP-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="1320" as="sourcePoint" />
             <mxPoint x="940" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-28" value="条件编译" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-28" value="条件编译" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="707" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-30" value="参考链接&amp;nbsp;&lt;br&gt;https://uniapp.dcloud.io/tutorial/platform.html" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-30" value="参考链接&amp;nbsp;&lt;br&gt;https://uniapp.dcloud.io/tutorial/platform.html" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="1470" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-28" target="mMeTXBTy8XtxrKCNUORP-30">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mMeTXBTy8XtxrKCNUORP-28" target="mMeTXBTy8XtxrKCNUORP-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="1350" as="sourcePoint" />
             <mxPoint x="990" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-32" value="参考链接&amp;nbsp;https://uniapp.dcloud.io/tutorial/page.html#lifecycle" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-32" value="参考链接&amp;nbsp;https://uniapp.dcloud.io/tutorial/page.html#lifecycle" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="895" y="920" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-33" value="参考链接&amp;nbsp;https://uniapp.dcloud.io/tutorial/page.html#componentlifecycle" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-33" value="参考链接&amp;nbsp;https://uniapp.dcloud.io/tutorial/page.html#componentlifecycle" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="1057.5" width="360" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-16" target="mMeTXBTy8XtxrKCNUORP-32">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mMeTXBTy8XtxrKCNUORP-16" target="mMeTXBTy8XtxrKCNUORP-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="1000" as="sourcePoint" />
             <mxPoint x="890" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-33" target="mMeTXBTy8XtxrKCNUORP-18">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mMeTXBTy8XtxrKCNUORP-33" target="mMeTXBTy8XtxrKCNUORP-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="1000" as="sourcePoint" />
             <mxPoint x="990" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-36" value="移动医护&lt;br&gt;uni小程序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-36" value="移动医护&lt;br&gt;uni小程序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-200" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-36" target="viMZh_LxQ2nRwRlM60QG-1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mMeTXBTy8XtxrKCNUORP-36" target="viMZh_LxQ2nRwRlM60QG-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="520" as="sourcePoint" />
             <mxPoint x="150" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mMeTXBTy8XtxrKCNUORP-38" target="mMeTXBTy8XtxrKCNUORP-40">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mMeTXBTy8XtxrKCNUORP-38" target="mMeTXBTy8XtxrKCNUORP-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-38" value="根据路由关键字段&lt;br&gt;跳转对应的页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-38" value="根据路由关键字段&lt;br&gt;跳转对应的页面" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="89" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-40" value="平板端页面&lt;br&gt;设置了整个窗口大小&lt;br&gt;tabTitle通过路由时&lt;br&gt;动态设置store" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mMeTXBTy8XtxrKCNUORP-40" value="平板端页面&lt;br&gt;设置了整个窗口大小&lt;br&gt;tabTitle通过路由时&lt;br&gt;动态设置store" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-111" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p_1--QxRT9-Y2mZCkOfn-1" value="点击等 交互事件&lt;br&gt;https://uniapp.dcloud.io/tutorial/vue-basics.html#%E4%BA%8B%E4%BB%B6%E6%98%A0%E5%B0%84%E8%A1%A8" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1180" width="470" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
