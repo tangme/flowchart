@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T03:27:13.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="zbJFfguCLO3cZi8qX5HB" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T06:28:08.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="rQSr5I-2oT7P6naKUfVx" version="20.4.0" type="github">
   <diagram id="G9VTqADsOA1uYVqKmHrd" name="第 1 页">
-    <mxGraphModel dx="2249" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,6 +242,9 @@
         <mxCell id="tz0ZN6WYewOIwqc-HpiO-2" value="是否已有&lt;br&gt;患者信息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1440" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="tz0ZN6WYewOIwqc-HpiO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tz0ZN6WYewOIwqc-HpiO-4" target="tz0ZN6WYewOIwqc-HpiO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tz0ZN6WYewOIwqc-HpiO-4" value="查询医嘱接口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="284" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -252,6 +255,9 @@
         </mxCell>
         <mxCell id="tz0ZN6WYewOIwqc-HpiO-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-270" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tz0ZN6WYewOIwqc-HpiO-11" value="提供 zy，与扫码的信息给后台&lt;br&gt;后台判断返回，&lt;br&gt;如果是患者，带患者标识，&lt;br&gt;如果是医嘱，带医嘱标识" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="176" y="1590" width="336" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
