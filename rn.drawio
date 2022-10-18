@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T01:02:30.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="EEOayle377XOkvDgP8UB" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T01:28:41.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="4iZhy2q-UfwPZset6Zsg" version="20.4.1" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
-    <mxGraphModel dx="811" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,6 +101,26 @@
         </mxCell>
         <mxCell id="UdodOq17JShyl9BkQcSk-2" value="&lt;h1&gt;Android 打包&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="1430" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UdodOq17JShyl9BkQcSk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdodOq17JShyl9BkQcSk-3" target="UdodOq17JShyl9BkQcSk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UdodOq17JShyl9BkQcSk-6" value="进入app下的build.gradle" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UdodOq17JShyl9BkQcSk-5">
+          <mxGeometry x="-0.1024" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UdodOq17JShyl9BkQcSk-3" value="gradlew assembleSitDebug" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1580" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UdodOq17JShyl9BkQcSk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdodOq17JShyl9BkQcSk-4" target="UdodOq17JShyl9BkQcSk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UdodOq17JShyl9BkQcSk-4" value="productFlavors&lt;br&gt;查询配置信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UdodOq17JShyl9BkQcSk-7" value="buildTypes&lt;br&gt;查询配置信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
