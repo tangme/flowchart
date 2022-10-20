@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T03:16:50.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="hlk0myGuFy7jQjPkJH5E" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T03:29:16.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="t0GUZkJ_Pg8VpEyOU9-l" version="20.4.1" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
     <mxGraphModel dx="2836" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,8 +238,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uqAxp_Gl_GjFcVd8hVZb-26" value="告知 MainActivity 清空navigator 并 跳转选择页" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uqAxp_Gl_GjFcVd8hVZb-25">
+          <mxGeometry x="-0.4506" y="3" relative="1" as="geometry">
+            <mxPoint x="70" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uqAxp_Gl_GjFcVd8hVZb-24" value="SwitchUser&amp;nbsp; Activity" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="2370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-920" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
