@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T01:55:09.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="IcIoAiVgN2-mzy-Xwv_1" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T03:16:50.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="hlk0myGuFy7jQjPkJH5E" version="20.4.1" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
-    <mxGraphModel dx="2009" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2836" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,6 +229,17 @@
         </mxCell>
         <mxCell id="uqAxp_Gl_GjFcVd8hVZb-23" value="1.Unisdk 初始化&lt;br&gt;2.获取用户信息&lt;br&gt;3.注册登出事件&lt;br&gt;4.根据权限判断是否直接视光或uni小程序" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-690" y="2635" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uqAxp_Gl_GjFcVd8hVZb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uqAxp_Gl_GjFcVd8hVZb-24" target="uqAxp_Gl_GjFcVd8hVZb-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-210" y="2400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-314" y="2400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uqAxp_Gl_GjFcVd8hVZb-24" value="SwitchUser&amp;nbsp; Activity" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
