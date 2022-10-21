@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T01:09:41.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="qWOoyxpc4Z3o4lq0dPzZ" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T01:15:07.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="EIiectXQYK8KclpHIFbJ" version="20.4.2" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
-    <mxGraphModel dx="2506" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2665" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,20 +234,25 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-210" y="2400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-314" y="2400" />
+              <mxPoint x="-314" y="2440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uqAxp_Gl_GjFcVd8hVZb-26" value="告知 MainActivity 清空navigator 并 跳转选择页" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uqAxp_Gl_GjFcVd8hVZb-25" vertex="1" connectable="0">
           <mxGeometry x="-0.4506" y="3" relative="1" as="geometry">
-            <mxPoint x="70" y="3" as="offset" />
+            <mxPoint x="161" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-1wtARRuuyfejiPdPyJ-10" value="onDestroy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uqAxp_Gl_GjFcVd8hVZb-25">
+          <mxGeometry x="-0.7581" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V-1wtARRuuyfejiPdPyJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uqAxp_Gl_GjFcVd8hVZb-24" target="V-1wtARRuuyfejiPdPyJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uqAxp_Gl_GjFcVd8hVZb-24" value="SwitchUser&amp;nbsp; Activity" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-920" y="2370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-920" y="2370" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="V-1wtARRuuyfejiPdPyJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="V-1wtARRuuyfejiPdPyJ-1" target="V-1wtARRuuyfejiPdPyJ-3">
           <mxGeometry relative="1" as="geometry" />
@@ -258,10 +263,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V-1wtARRuuyfejiPdPyJ-1" value="react native page" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="2230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-920" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V-1wtARRuuyfejiPdPyJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="V-1wtARRuuyfejiPdPyJ-3" target="uqAxp_Gl_GjFcVd8hVZb-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-600" y="2400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-560" y="2395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V-1wtARRuuyfejiPdPyJ-9" value="关闭 Activity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V-1wtARRuuyfejiPdPyJ-8">
+          <mxGeometry x="-0.5865" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="38" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V-1wtARRuuyfejiPdPyJ-3" value="android java" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;labelBorderColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="2230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-620" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
