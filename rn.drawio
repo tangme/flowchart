@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T07:54:31.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="6-wg-jDsq1tOOtM1-jR1" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T07:54:38.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="N751RRZXCP2X665S8k2N" version="20.4.2" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
     <mxGraphModel dx="2351" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
         </mxCell>
         <mxCell id="i1WaAepUnrzORATrILdt-3" value="保存用户信息提供切换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i1WaAepUnrzORATrILdt-2">
           <mxGeometry x="-0.2409" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
