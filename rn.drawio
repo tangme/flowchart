@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T09:17:51.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="2H5Dqi7x8CP-ZtFh9anF" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T09:23:30.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="wFMWCrjT4CeF_rH7g4cU" version="20.5.3" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
-    <mxGraphModel dx="2707" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2891" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,7 +267,7 @@
         <mxCell id="V-1wtARRuuyfejiPdPyJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="V-1wtARRuuyfejiPdPyJ-1" target="V-1wtARRuuyfejiPdPyJ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V-1wtARRuuyfejiPdPyJ-5" value="调用方法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V-1wtARRuuyfejiPdPyJ-4" vertex="1" connectable="0">
+        <mxCell id="V-1wtARRuuyfejiPdPyJ-5" value="jsModule" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V-1wtARRuuyfejiPdPyJ-4" vertex="1" connectable="0">
           <mxGeometry x="-0.2222" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
           </mxGeometry>
@@ -288,7 +288,7 @@
             <mxPoint x="1" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V-1wtARRuuyfejiPdPyJ-11" value="广播" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V-1wtARRuuyfejiPdPyJ-8" vertex="1" connectable="0">
+        <mxCell id="V-1wtARRuuyfejiPdPyJ-11" value="本地广播" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V-1wtARRuuyfejiPdPyJ-8" vertex="1" connectable="0">
           <mxGeometry x="-0.7753" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
