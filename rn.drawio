@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T07:13:38.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="53OylvBTtum8u13bSpY1" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T07:13:52.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="x6yJyXoSUh-7QBPq7CeD" version="20.6.0" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
     <mxGraphModel dx="2467" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L58qA7b8Kt2JShDJQUon-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;对此文件桶，提供一个单独的账号进行访问&lt;/span&gt;&lt;/div&gt;avis-bigfile-1257101260.cos.ap-guangzhou.myqcloud.com/avis" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="420" y="3320" width="370" height="40" as="geometry" />
+          <mxGeometry x="460" y="3390" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
