@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T06:30:49.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="sbuLf5kKSQrZ4OyZ_0Ap" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T09:11:21.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="aWjiG1Xwy_um1B2CAYSt" version="21.1.2" type="github">
   <diagram id="G9VTqADsOA1uYVqKmHrd" name="第 1 页">
-    <mxGraphModel dx="2512" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,18 @@
         <mxCell id="viMZh_LxQ2nRwRlM60QG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-2" target="viMZh_LxQ2nRwRlM60QG-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UPnpdOdw2mmB5ctEn6n1-1" value="有 auth&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="viMZh_LxQ2nRwRlM60QG-5">
+          <mxGeometry x="0.1937" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="viMZh_LxQ2nRwRlM60QG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-2" target="viMZh_LxQ2nRwRlM60QG-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPnpdOdw2mmB5ctEn6n1-2" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="viMZh_LxQ2nRwRlM60QG-7">
+          <mxGeometry x="-0.2286" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="viMZh_LxQ2nRwRlM60QG-2" value="根据auth信息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="284" y="340" width="130" height="100" as="geometry" />
@@ -259,7 +269,7 @@
         <mxCell id="tz0ZN6WYewOIwqc-HpiO-11" value="提供 zy，与扫码的信息给后台&lt;br&gt;后台判断返回，&lt;br&gt;如果是患者，带患者标识，&lt;br&gt;如果是医嘱，带医嘱标识" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="176" y="1590" width="336" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IICCRwlZ6o56TPQ-Woub-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="IICCRwlZ6o56TPQ-Woub-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-800" y="1880" as="sourcePoint" />
             <mxPoint x="690" y="1880" as="targetPoint" />
