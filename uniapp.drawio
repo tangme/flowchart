@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T09:11:21.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="aWjiG1Xwy_um1B2CAYSt" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T09:13:03.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="DCnIhjTbFr0i1iSqg8Bj" version="21.1.2" type="github">
   <diagram id="G9VTqADsOA1uYVqKmHrd" name="第 1 页">
-    <mxGraphModel dx="1816" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
         <mxCell id="viMZh_LxQ2nRwRlM60QG-2" value="根据auth信息" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="284" y="340" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mMeTXBTy8XtxrKCNUORP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="viMZh_LxQ2nRwRlM60QG-4" target="mMeTXBTy8XtxrKCNUORP-38" edge="1">
+        <mxCell id="UPnpdOdw2mmB5ctEn6n1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="viMZh_LxQ2nRwRlM60QG-4" target="UPnpdOdw2mmB5ctEn6n1-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="viMZh_LxQ2nRwRlM60QG-4" value="APP小程序" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -183,10 +183,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mMeTXBTy8XtxrKCNUORP-38" value="根据路由关键字段&lt;br&gt;跳转对应的页面" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="89" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mMeTXBTy8XtxrKCNUORP-40" value="平板端页面&lt;br&gt;设置了整个窗口大小&lt;br&gt;tabTitle通过路由时&lt;br&gt;动态设置store" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-111" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-270" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p_1--QxRT9-Y2mZCkOfn-1" value="点击等 交互事件&lt;br&gt;https://uniapp.dcloud.io/tutorial/vue-basics.html#%E4%BA%8B%E4%BB%B6%E6%98%A0%E5%B0%84%E8%A1%A8" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1180" width="470" height="80" as="geometry" />
@@ -274,6 +274,12 @@
             <mxPoint x="-800" y="1880" as="sourcePoint" />
             <mxPoint x="690" y="1880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UPnpdOdw2mmB5ctEn6n1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UPnpdOdw2mmB5ctEn6n1-3" target="mMeTXBTy8XtxrKCNUORP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPnpdOdw2mmB5ctEn6n1-3" value="page.json里&lt;br&gt;第一个页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
