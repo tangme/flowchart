@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T06:11:06.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="nvouJZLBsZ7JwQOBfrX-" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T06:35:08.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="vVxRJ1SIfLGK7Ld8zQT0" version="21.1.2" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
     <mxGraphModel dx="2689" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,7 +222,7 @@
         <mxCell id="uqAxp_Gl_GjFcVd8hVZb-11" value="configNavigator.js" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="15" y="2990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uqAxp_Gl_GjFcVd8hVZb-15" value="authPage 系统选择页" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uqAxp_Gl_GjFcVd8hVZb-15" value="authPage 系统选择页&lt;br&gt;获取本地的 auth 信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-280" y="3130" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uqAxp_Gl_GjFcVd8hVZb-17" value="Home 视光页面" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
