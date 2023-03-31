@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T07:24:57.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="8aAHy4vux5ltaPyDDjxA" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T07:29:25.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="hNWxPPwxwqQT4V7fN4Y4" version="21.1.2" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
     <mxGraphModel dx="2689" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,13 +406,14 @@
         <mxCell id="hT3orMzwpccqfOdoKtAh-17" value="UNI 小程序业务菜单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-380" y="3335" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hT3orMzwpccqfOdoKtAh-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hT3orMzwpccqfOdoKtAh-19" target="hT3orMzwpccqfOdoKtAh-21">
+        <mxCell id="hT3orMzwpccqfOdoKtAh-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hT3orMzwpccqfOdoKtAh-19" target="hT3orMzwpccqfOdoKtAh-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hT3orMzwpccqfOdoKtAh-23" value="现有的逻辑，开发环境不管之前是否已下载&lt;br&gt;都会进行一次下载&lt;br&gt;生产环境会进行判断" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hT3orMzwpccqfOdoKtAh-22">
-          <mxGeometry x="-0.2646" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="9" as="offset" />
-          </mxGeometry>
+        <mxCell id="hT3orMzwpccqfOdoKtAh-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hT3orMzwpccqfOdoKtAh-19" target="hT3orMzwpccqfOdoKtAh-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3orMzwpccqfOdoKtAh-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hT3orMzwpccqfOdoKtAh-19" target="hT3orMzwpccqfOdoKtAh-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hT3orMzwpccqfOdoKtAh-19" value="UNISKD.start&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-627.5" y="3335" width="185" height="60" as="geometry" />
@@ -421,16 +422,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hT3orMzwpccqfOdoKtAh-21" value="下载对应的 Uni小程序业务包&lt;br&gt;正式，测试都是下面地址&lt;br&gt;http://uat.aierchina.com:1111/uni/download/__UNI__8389DEA.wgt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-728.75" y="3520" width="387.5" height="60" as="geometry" />
+          <mxGeometry x="-728.75" y="3660" width="387.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hT3orMzwpccqfOdoKtAh-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hT3orMzwpccqfOdoKtAh-24" target="hT3orMzwpccqfOdoKtAh-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hT3orMzwpccqfOdoKtAh-24" value="解压下载的 wgt 小程序资源包" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-728.75" y="3660" width="387.5" height="60" as="geometry" />
+          <mxGeometry x="-728.75" y="3800" width="387.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hT3orMzwpccqfOdoKtAh-26" value="启动 uni 小程序" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-728.75" y="3775" width="387.5" height="60" as="geometry" />
+          <mxGeometry x="-728.75" y="3915" width="387.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3orMzwpccqfOdoKtAh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hT3orMzwpccqfOdoKtAh-28" target="hT3orMzwpccqfOdoKtAh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3orMzwpccqfOdoKtAh-35" value="每次都会下载资源包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hT3orMzwpccqfOdoKtAh-34">
+          <mxGeometry x="-0.4037" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hT3orMzwpccqfOdoKtAh-28" value="三种开发环境&lt;br&gt;(dev sit uat)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-482.5" y="3475" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3orMzwpccqfOdoKtAh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hT3orMzwpccqfOdoKtAh-31" target="hT3orMzwpccqfOdoKtAh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hT3orMzwpccqfOdoKtAh-37" value="根据版本号判断是否下载新的资源包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hT3orMzwpccqfOdoKtAh-36">
+          <mxGeometry x="-0.5728" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hT3orMzwpccqfOdoKtAh-31" value="生产环境" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="3475" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
