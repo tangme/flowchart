@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T07:05:39.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="-j8EXEYZP_q9bjxzulja" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T07:12:03.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="fOgKEv1ViFh14X6mgNTB" version="21.1.2" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
     <mxGraphModel dx="2689" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -412,8 +412,8 @@
         <mxCell id="hT3orMzwpccqfOdoKtAh-19" value="UNISKD.start&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-627.5" y="3335" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hT3orMzwpccqfOdoKtAh-21" value="下载对应的 Uni小程序业务包" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-627.5" y="3475" width="185" height="60" as="geometry" />
+        <mxCell id="hT3orMzwpccqfOdoKtAh-21" value="下载对应的 Uni小程序业务包&lt;br&gt;正式，测试都是下面地址&lt;br&gt;http://uat.aierchina.com:1111/uni/download/__UNI__8389DEA.wgt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-728.75" y="3470" width="387.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
