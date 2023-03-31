@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T07:30:43.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="itiwRlof4nHGXjN53ooZ" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T07:43:51.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="BOAKmyhQfOAUqHbsWRIs" version="21.1.2" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
     <mxGraphModel dx="2689" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -457,7 +457,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hT3orMzwpccqfOdoKtAh-37" value="没有资源包，进行下载&lt;br&gt;有资源包&lt;br&gt;根据版本号判断是否下载新的资源包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hT3orMzwpccqfOdoKtAh-36">
+        <mxCell id="hT3orMzwpccqfOdoKtAh-37" value="没有资源包，进行下载&lt;br&gt;有资源包&lt;br&gt;查询版本号接口&lt;br&gt;根据版本号判断是否下载新的资源包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hT3orMzwpccqfOdoKtAh-36">
           <mxGeometry x="-0.5728" relative="1" as="geometry">
             <mxPoint y="-20" as="offset" />
           </mxGeometry>
