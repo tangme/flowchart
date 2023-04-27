@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T03:16:38.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="gmys8cV0QxRJTLG_2gJR" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T03:28:12.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="OUfFlphto2lcWfxt787S" version="21.1.2" type="github">
   <diagram id="FNumu-MdkQsG0bbrW5rX" name="第 1 页">
-    <mxGraphModel dx="2517" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2255" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -468,6 +468,9 @@
         <mxCell id="zHmZIYJbKaTp9Snu3BZq-1" value="&lt;h1&gt;设备配置 逻辑&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="360" width="190" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHmZIYJbKaTp9Snu3BZq-2" target="zHmZIYJbKaTp9Snu3BZq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zHmZIYJbKaTp9Snu3BZq-2" value="TCP 保存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1430" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -476,6 +479,76 @@
         </mxCell>
         <mxCell id="zHmZIYJbKaTp9Snu3BZq-4" value="两个不同的按钮，不同的事件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1310" y="450" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHmZIYJbKaTp9Snu3BZq-5" target="zHmZIYJbKaTp9Snu3BZq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-5" value="获取 ip port 输入框值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHmZIYJbKaTp9Snu3BZq-7" target="zHmZIYJbKaTp9Snu3BZq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-7" value="根据当前tab 查询数据库是否有记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHmZIYJbKaTp9Snu3BZq-9" target="zHmZIYJbKaTp9Snu3BZq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-13" value="有记录且 ip port值不为空" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zHmZIYJbKaTp9Snu3BZq-12">
+          <mxGeometry x="0.4293" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHmZIYJbKaTp9Snu3BZq-9" target="zHmZIYJbKaTp9Snu3BZq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-16" value="无记录且 ip port值不为空" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zHmZIYJbKaTp9Snu3BZq-15">
+          <mxGeometry x="0.2455" y="1" relative="1" as="geometry">
+            <mxPoint x="-5" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHmZIYJbKaTp9Snu3BZq-9" target="zHmZIYJbKaTp9Snu3BZq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-19" value="有记录 但 ip port 为空" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zHmZIYJbKaTp9Snu3BZq-18">
+          <mxGeometry x="0.4471" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHmZIYJbKaTp9Snu3BZq-9" target="zHmZIYJbKaTp9Snu3BZq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zHmZIYJbKaTp9Snu3BZq-9" target="zHmZIYJbKaTp9Snu3BZq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zHmZIYJbKaTp9Snu3BZq-9" target="zHmZIYJbKaTp9Snu3BZq-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1370" y="1010" />
+              <mxPoint x="-1300" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-25" value="无记录 值为空" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zHmZIYJbKaTp9Snu3BZq-24">
+          <mxGeometry x="0.4897" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-9" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-11" value="更新原有记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1630" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-14" value="新增记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-17" value="删除原有记录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zHmZIYJbKaTp9Snu3BZq-23" value="不做处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
