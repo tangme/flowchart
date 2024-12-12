@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="4Z4vOjG33hLCItT1rQMN">
-    <mxGraphModel dx="1397" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1996" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,18 +159,9 @@
         <mxCell id="JyRxtPzMjF4cvIecIfeS-5" value="打印机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PmHOLb2PflUZi9dplfsK-1" value="根据 applyNumber 查询打印机配置信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="827" y="230" width="283" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PmHOLb2PflUZi9dplfsK-2" value="获取医疗云app应用是否有配置默认打印机配置信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="230" width="300" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PmHOLb2PflUZi9dplfsK-3" value="拉起安卓系统本身的打印服务框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="230" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100.21" y="670" as="targetPoint" />
+            <mxPoint x="1090.21" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-20" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;根据 患者 applyNumber 查询打印机配置信息&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-19">
@@ -179,10 +170,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-4" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="1">
-          <mxGeometry x="1080.41" y="449.5" width="39.59" height="80.5" as="geometry" />
+          <mxGeometry x="1070.41" y="451.5" width="39.59" height="80.5" as="geometry" />
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-7" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1320" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="1314" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-4" target="PmHOLb2PflUZi9dplfsK-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -197,11 +188,11 @@
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-7" target="PmHOLb2PflUZi9dplfsK-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1410" y="420" as="sourcePoint" />
-            <mxPoint x="1350" y="570" as="targetPoint" />
+            <mxPoint x="1404" y="420" as="sourcePoint" />
+            <mxPoint x="1344" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1470" y="450" />
-              <mxPoint x="1470" y="530" />
+              <mxPoint x="1464" y="450" />
+              <mxPoint x="1464" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -246,14 +237,14 @@
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-27" value="window应用输入打印任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-26">
           <mxGeometry x="-0.1703" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1065.2" y="640" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-29" value="&lt;div&gt;有配置&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1114" y="725" width="70" height="70" as="geometry" />
+          <mxGeometry x="1115" y="725" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-31" value="&lt;span style=&quot;background-color: initial;&quot;&gt;没有配置&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995.2" y="725" width="70" height="70" as="geometry" />
@@ -294,20 +285,51 @@
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-40" value="window应用输入打印任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-39">
           <mxGeometry x="-0.1703" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-41" value="&lt;div&gt;有配置&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1054" y="967" width="70" height="70" as="geometry" />
+          <mxGeometry x="1055" y="965" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;没有配置&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="944.2" y="966" width="70" height="70" as="geometry" />
+          <mxGeometry x="945.2" y="964" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-43" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="954.2" y="1100" width="50" height="100" as="geometry" />
+          <mxGeometry x="949.2" y="1095" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PmHOLb2PflUZi9dplfsK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-42" target="PmHOLb2PflUZi9dplfsK-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-47" value="调用安卓系统打印服务框架" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-44">
+          <mxGeometry x="-0.192" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-48" target="PmHOLb2PflUZi9dplfsK-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-51" value="选择打印机并输出打印" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-50">
+          <mxGeometry x="-0.2238" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-48" value="&lt;div&gt;有&lt;span style=&quot;background-color: initial;&quot;&gt;打印服务&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="994.2" y="1169" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-49" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1164" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-52" target="PmHOLb2PflUZi9dplfsK-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-52" value="&lt;span style=&quot;background-color: initial;&quot;&gt;无打印服务&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="884" y="1170" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-53" value="打印业务取消" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="859" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-55" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;手术麻醉 平板打印文书 程序流程&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="932.2" y="350" width="414.8" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
