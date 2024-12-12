@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EUxthIYtTsblbdW1jSn8-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="460" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1080" width="540" height="150" as="geometry" />
         </mxCell>
@@ -125,6 +128,18 @@
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-42" value="三级折扣" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1098" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-46" target="EUxthIYtTsblbdW1jSn8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-46" target="EUxthIYtTsblbdW1jSn8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-46" target="EUxthIYtTsblbdW1jSn8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-46" value="不可叠加折扣" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
