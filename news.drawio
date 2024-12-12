@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="Qo05anvVhtGKLyieYhg1">
-    <mxGraphModel dx="1790" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-9" value="优惠券核销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="765" width="120" height="30" as="geometry" />
+          <mxGeometry x="16" y="765" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-10" target="EUxthIYtTsblbdW1jSn8-23">
           <mxGeometry relative="1" as="geometry" />
@@ -120,10 +120,13 @@
         <mxCell id="EUxthIYtTsblbdW1jSn8-27" value="满减" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="949" width="63" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EUxthIYtTsblbdW1jSn8-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-35" target="EUxthIYtTsblbdW1jSn8-9">
+        <mxCell id="EUxthIYtTsblbdW1jSn8-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-35" target="EUxthIYtTsblbdW1jSn8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EUxthIYtTsblbdW1jSn8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-35" target="EUxthIYtTsblbdW1jSn8-10">
+        <mxCell id="EUxthIYtTsblbdW1jSn8-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-35" target="EUxthIYtTsblbdW1jSn8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-35" target="EUxthIYtTsblbdW1jSn8-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-35" value="二级折扣" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -193,6 +196,15 @@
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.047;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-2" target="EUxthIYtTsblbdW1jSn8-58">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-61" target="EUxthIYtTsblbdW1jSn8-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-61" value="门诊券核销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="765" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-62" value="抵扣" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="830" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
