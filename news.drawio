@@ -21,6 +21,9 @@
             <mxPoint x="120" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-1" target="EUxthIYtTsblbdW1jSn8-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-1" value="会员折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -184,6 +187,12 @@
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-55" value="抵扣" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="830" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-58" value="商品品类不同&lt;div&gt;折扣不同&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="585" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.047;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-2" target="EUxthIYtTsblbdW1jSn8-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
