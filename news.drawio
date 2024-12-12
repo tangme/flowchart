@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="Qo05anvVhtGKLyieYhg1">
-    <mxGraphModel dx="1488" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1791" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
           <mxGeometry x="-110" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-4" value="套餐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-5" value="临时授权折扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry x="670" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-7" value="镜片一口价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-8" value="积分抵现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1169" width="120" height="30" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-42" value="三级折扣" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1090" width="120" height="30" as="geometry" />
+          <mxGeometry x="70" y="1098" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
