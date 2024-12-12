@@ -66,6 +66,15 @@
         <mxCell id="EUxthIYtTsblbdW1jSn8-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-10" target="EUxthIYtTsblbdW1jSn8-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-10" target="EUxthIYtTsblbdW1jSn8-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-10" target="EUxthIYtTsblbdW1jSn8-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="EUxthIYtTsblbdW1jSn8-10" target="EUxthIYtTsblbdW1jSn8-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-10" value="互联网券核销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="172" y="765" width="89" height="30" as="geometry" />
         </mxCell>
@@ -106,13 +115,13 @@
           <mxGeometry x="170" y="922" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-23" value="立减" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="709" width="58" height="30" as="geometry" />
+          <mxGeometry x="319" y="720" width="58" height="19" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-24" value="满减" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="765" width="58" height="30" as="geometry" />
+          <mxGeometry x="319" y="753" width="58" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-25" value="一口价" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="819" width="58" height="31" as="geometry" />
+          <mxGeometry x="319" y="790" width="58" height="21" as="geometry" />
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-26" value="立减" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="899" width="63" height="30" as="geometry" />
@@ -205,6 +214,9 @@
         </mxCell>
         <mxCell id="EUxthIYtTsblbdW1jSn8-62" value="抵扣" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-105" y="830" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EUxthIYtTsblbdW1jSn8-65" value="折扣" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="828" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
