@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T06:33:45.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TlCC85B7x62WW5IfQaxC" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="4Z4vOjG33hLCItT1rQMN">
-    <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" parent="1" vertex="1">
-          <mxGeometry x="360" y="119.5" width="30" height="61" as="geometry" />
+          <mxGeometry x="340" y="119.5" width="30" height="61" as="geometry" />
         </mxCell>
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="C9_ZeGXNqVljK5FA-xq8-2" target="C9_ZeGXNqVljK5FA-xq8-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -16,15 +16,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="590" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="570" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" parent="1" vertex="1">
           <mxGeometry x="30" y="560.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="149.5" as="sourcePoint" />
-            <mxPoint x="580" y="150" as="targetPoint" />
+            <mxPoint x="400" y="149.5" as="sourcePoint" />
+            <mxPoint x="560" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-5" value="请求文书下载地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="C9_ZeGXNqVljK5FA-xq8-4" vertex="1" connectable="0">
@@ -33,15 +33,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="590" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="570" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-9" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" parent="1" vertex="1">
-          <mxGeometry x="360" y="299.5" width="30" height="61" as="geometry" />
+          <mxGeometry x="340" y="299.5" width="30" height="61" as="geometry" />
         </mxCell>
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="339.5" as="sourcePoint" />
-            <mxPoint x="430" y="339.5" as="targetPoint" />
+            <mxPoint x="560" y="339.5" as="sourcePoint" />
+            <mxPoint x="410" y="339.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-11" value="响应文书下载地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="C9_ZeGXNqVljK5FA-xq8-10" vertex="1" connectable="0">
@@ -139,25 +139,175 @@
         <mxCell id="C9_ZeGXNqVljK5FA-xq8-27" value="" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png" parent="1" vertex="1">
           <mxGeometry x="360" y="940" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JyRxtPzMjF4cvIecIfeS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JyRxtPzMjF4cvIecIfeS-1" target="JyRxtPzMjF4cvIecIfeS-2">
+        <mxCell id="JyRxtPzMjF4cvIecIfeS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JyRxtPzMjF4cvIecIfeS-1" target="JyRxtPzMjF4cvIecIfeS-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JyRxtPzMjF4cvIecIfeS-7" value="1、pdf地址&lt;br&gt;2、哪台打印机" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JyRxtPzMjF4cvIecIfeS-3">
+        <mxCell id="JyRxtPzMjF4cvIecIfeS-7" value="1、pdf地址&lt;br&gt;2、哪台打印机" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JyRxtPzMjF4cvIecIfeS-3" vertex="1" connectable="0">
           <mxGeometry x="-0.2735" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JyRxtPzMjF4cvIecIfeS-1" value="平板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JyRxtPzMjF4cvIecIfeS-1" value="平板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JyRxtPzMjF4cvIecIfeS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JyRxtPzMjF4cvIecIfeS-2" target="JyRxtPzMjF4cvIecIfeS-5">
+        <mxCell id="JyRxtPzMjF4cvIecIfeS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JyRxtPzMjF4cvIecIfeS-2" target="JyRxtPzMjF4cvIecIfeS-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JyRxtPzMjF4cvIecIfeS-2" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JyRxtPzMjF4cvIecIfeS-2" value="小程序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JyRxtPzMjF4cvIecIfeS-5" value="打印机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JyRxtPzMjF4cvIecIfeS-5" value="打印机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-1" value="根据 applyNumber 查询打印机配置信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="230" width="283" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-2" value="获取医疗云app应用是否有配置默认打印机配置信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="230" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-3" value="拉起安卓系统本身的打印服务框架" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="230" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100.21" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-20" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;根据 患者 applyNumber 查询打印机配置信息&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-19">
+          <mxGeometry x="-0.1333" y="-5" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-4" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.pda;" vertex="1" parent="1">
+          <mxGeometry x="1080.41" y="449.5" width="39.59" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-7" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1320" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-4" target="PmHOLb2PflUZi9dplfsK-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="489.5" as="sourcePoint" />
+            <mxPoint x="1310" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-9" value="请求文书下载地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-8">
+          <mxGeometry x="-0.3626" y="3" relative="1" as="geometry">
+            <mxPoint x="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-7" target="PmHOLb2PflUZi9dplfsK-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="420" as="sourcePoint" />
+            <mxPoint x="1350" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1470" y="450" />
+              <mxPoint x="1470" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-15" value="生成PDF文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-14">
+          <mxGeometry x="0.0444" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="585" as="sourcePoint" />
+            <mxPoint x="1120" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-17" value="响应文书下载地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-16">
+          <mxGeometry x="0.2133" y="1" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-21" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1347" y="715" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="PmHOLb2PflUZi9dplfsK-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1187" y="760" as="sourcePoint" />
+            <mxPoint x="1410.83" y="798" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-23" value="发送请求给&lt;div&gt;调用打印机的&lt;/div&gt;&lt;div&gt;window应用&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-22">
+          <mxGeometry x="0.0333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-24" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1581" y="715" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-21" target="PmHOLb2PflUZi9dplfsK-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1487.79" y="788" as="sourcePoint" />
+            <mxPoint x="1680.83" y="788.6400000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-27" value="window应用输入打印任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-26">
+          <mxGeometry x="-0.1703" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1065.2" y="640" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-29" value="&lt;div&gt;有配置&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1114" y="725" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-31" value="&lt;span style=&quot;background-color: initial;&quot;&gt;没有配置&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995.2" y="725" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1010.2" y="885" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-31" target="PmHOLb2PflUZi9dplfsK-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-34" value="查询医疗云app应用&lt;div&gt;是否有打印机配置信息&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-33">
+          <mxGeometry x="-0.2944" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-35" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1287" y="957" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="PmHOLb2PflUZi9dplfsK-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1127" y="1002" as="sourcePoint" />
+            <mxPoint x="1350.83" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-37" value="发送请求给&lt;div&gt;调用打印机的&lt;/div&gt;&lt;div&gt;window应用&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-36">
+          <mxGeometry x="0.0333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-38" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_Commercial_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1521" y="957" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-35" target="PmHOLb2PflUZi9dplfsK-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1427.79" y="1030" as="sourcePoint" />
+            <mxPoint x="1620.83" y="1030.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-40" value="window应用输入打印任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PmHOLb2PflUZi9dplfsK-39">
+          <mxGeometry x="-0.1703" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-41" value="&lt;div&gt;有配置&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1054" y="967" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;没有配置&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="944.2" y="966" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-43" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="954.2" y="1100" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PmHOLb2PflUZi9dplfsK-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PmHOLb2PflUZi9dplfsK-42" target="PmHOLb2PflUZi9dplfsK-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
